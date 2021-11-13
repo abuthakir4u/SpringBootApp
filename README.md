@@ -1,1 +1,3 @@
 # SpringBootApp
+
+Sample application
